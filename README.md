@@ -1,8 +1,8 @@
 # SimpleRegion
 
-![](docs/imgs/example.png)
-
-*From up to down: real images, soft regions, hard regions, hard regions with random colors*
+| ![docs/imgs/example.png](docs/imgs/example.png) | 
+|:--:| 
+| *From up to down: real images, soft regions, hard regions, hard regions with random colors* |
 
 A simple neural network model for extracting regions from an image.
 
